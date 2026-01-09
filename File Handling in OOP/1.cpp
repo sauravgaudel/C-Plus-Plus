@@ -8,12 +8,10 @@ int main() {
     float prices[] = {199.50, 120.75, 45.25};
     int quantities[] = {2, 1, 4};
     float grandTotal = 0;
-
  
     cout.fill('=');
     cout.width(60);
     cout << "=" << endl;
-
 
     cout.fill(' ');
     cout.setf(ios::left);
